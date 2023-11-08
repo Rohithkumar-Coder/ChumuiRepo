@@ -1,1 +1,21 @@
-hkjfhvkjfnlijf;flfew
+1> git init
+2> git add .
+3> git commit -m "first commit"
+4> git remote add origin name_of_the_origin_repo_name
+5> git push origin branch_name
+
+
+/// git code --> 
+1> To create a branch 
+-> git branch new_branch_name
+2> To change the branch
+--> git checkout branch_name
+3> To check the status
+--> git status
+4> To check all the commit and push in the repo
+--> git log
+5> To copy the project 
+--> git clone repo_link_http
+6> To pull all the data
+--> git pull     or  git pull branch_name
+
